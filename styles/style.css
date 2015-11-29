@@ -70,8 +70,9 @@ main p {
 
 footer {
   position: absolute;
-  bottom: 0px;
+  bottom: -200px;
   left: 0px;
+  
   height: 50px;
   width: 100%;
   text-align: center;
